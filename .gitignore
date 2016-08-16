@@ -107,3 +107,4 @@ coverage
 ############################
 
 packages/strapi-generate-new/files/public/
+config.bat
